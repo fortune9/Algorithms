@@ -22,7 +22,7 @@ Folder | Description
 -------|-------------------------------
 [count\_inversions](Algorithms/count_inversions.py)|using MergeSort algorithm to count the number of inversions in an array
 [Karatsuba](Algorithms/karatsuba_int_multiplication.py)|integer multiplication using [Karatsuba algorithm](https://en.wikipedia.org/wiki/Karatsuba_algorithm)
-
+[quick sort](Algorithms/quick_sort)|quick sort algorithm implementation
 
 Your feedback is always welcome!
 
