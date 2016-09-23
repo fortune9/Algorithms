@@ -2,7 +2,9 @@
 
 In this folder, the quick sort algorithm has been implemented.
 Depending on how the pivot is chosen, the algorithm may be implemented
-in different ways. The method I used in each program is listed below:
+in different ways. The method I used in each program is given in the
+file description below. In addition to program, example input and
+output files are also given.
 
 file name | pivot choosing method
 ----------|----------------------
@@ -11,9 +13,9 @@ test.in|example input file
 test.out|example output file
 readme.md|this readme file
 
-The input file, like test.in, can contains more than one number in a
+**The input file, like test.in, can contains more than one number in a
 line, but the numbers can only be delimited by white spaces such as
-tab or ' '.
+tab or ' '.**
 
 Author: Zhenguo Zhang
 Email: zhangz.sci@gmail.com
